@@ -1,11 +1,17 @@
 body {
-    background-color: #eff0e4;
+    background-color: #fcfcfc;
 }
 
 .container {
     width: 900px;
     padding: 20px;
     margin: 40px auto;
-    background-color: #ddf5e7;
+    background-color: #eadde8;
     border-radius: 20px;
+}
+
+.sidebar {
+    width: 250px;
+    float: left;
+    padding: 10px;
 }
