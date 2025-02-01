@@ -5,8 +5,7 @@ body {
 .container {
     width: 900px;
     padding: 20px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin: 40px auto;
     background-color: #ddf5e7;
     border-radius: 20px;
 }
