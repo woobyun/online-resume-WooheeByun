@@ -80,6 +80,7 @@ nav ul {
     font-size: 14px;
 }
 
+/* for mobile */
 @media screen and (max-width: 576px) {
     body {
       .container {
