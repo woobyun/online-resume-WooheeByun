@@ -1,7 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #fcfcfc;
     font-family: "Atkinson Hyperlegible", serif;
     scroll-behavior: smooth;
+    padding: 0px;
 }
 
 .container {
@@ -55,6 +60,9 @@ nav {
     background-color: coral;
     padding: 5px;
     filter: drop-shadow(5px 5px 6px #d1d1d1);
+    position: fixed;
+    width: 100%;
+    top: 0px;
 }
 
 nav ul {
