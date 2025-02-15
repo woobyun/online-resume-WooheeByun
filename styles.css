@@ -72,3 +72,10 @@ nav ul {
     width: 900px;
     margin: 0 auto;
 }
+
+.menu container li a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+}
