@@ -19,11 +19,11 @@ body {
 }
 
 .sidebar {
-    width: 30.00%;
+    width: 70.00%;
 }
 
 .content {
-    width: 70.00%;
+    width: 30.00%;
 }
 
 h1, h2 {
