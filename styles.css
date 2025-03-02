@@ -19,11 +19,13 @@ body {
 }
 
 .sidebar {
-    width: 70.00%;
+    width: 30.00%;
+    min-width: 180px;
 }
 
 .content {
-    width: 30.00%;
+    flex-grow: 1;
+    width: auto;
 }
 
 h1, h2 {
@@ -87,7 +89,7 @@ nav ul {
       }
 
       .sidebar {
-        width: 100%
+        width: 100%;
       }
 
       .content {
