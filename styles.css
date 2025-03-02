@@ -19,7 +19,13 @@ body {
 }
 
 .sidebar {
-    width: 300px;
+    width: 33.33%
+    box-sizing: border-box;
+}
+
+.content {
+    width: 66.67%;
+    box-sizing: border-box;
 }
 
 h1, h2 {
@@ -84,6 +90,14 @@ nav ul {
       .container {
           display: block;
           flex-direction: column-reverse;
+      }
+
+      .sidebar {
+        width: 100%
+      }
+
+      .content {
+        width: 100%;
       }
     }
 }
